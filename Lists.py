@@ -19,7 +19,7 @@ pop = newList.pop()
 print(newList)
 print(pop)
 
-sortThis = [3, 6, 2, 1]
+sortThis = [3, 6, 2, 1.3]
 print(sortThis)
 sortThis.sort()
 print(sortThis)
